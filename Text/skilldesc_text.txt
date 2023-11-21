@@ -108,7 +108,7 @@ Aegis: Nullify a magic attack.[N]
 (Skill % activation)[X]
 
 ## SD_Pavise
-Pavise: Nullify a physical attack.[N]
+Shield: Nullify a physical attack.[N]
 (Skill % activation)[X]
 
 ## SD_DuelistsBlow
@@ -501,8 +501,9 @@ Armsthrift: Luck % chance to not[N]
 consume weapon durability.[X]
 
 ## SD_Moonbow
-Moonbow: Enemy Def/Res is[N]
-reduced by 25%. Charge: 2[X]
+Pierce: On activation, nullifies[N]
+50% of the foe's Defense/Resistance.[N]
+(Skill % activation)[X]
 
 ## SD_Shove
 Shove: Allows unit to push[N]
@@ -1071,8 +1072,8 @@ unit. When adjacent to an ally[N]
 with this skill, gain Attack +2.[X]
 
 ## SD_DoubleLion
-Double Lion: All weapons[N]
-are treated as brave.[X]
+Braveheart: All weapons can attack twice[N]
+tin combat, like a Brave weapon.[X]
 
 ## SD_Eclipse
 Eclipse: Leave opponent with 1 HP.[N]
